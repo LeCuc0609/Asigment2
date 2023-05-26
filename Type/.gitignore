@@ -1,0 +1,7 @@
+# Logs
+logs
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+
